@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Ayoub Serti Page
 
-You can use the [editor on GitHub](https://github.com/ayoubserti/ayoubserti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Ayoub Serti, I'm senior C++ developer and JavaScript fun. I use to combine C++ with Javascript to make awesome things. You may find in my Github [Github](https://github.com/ayoubserti/) helpful tools and library such as [node-iohook](https://github.com/ayoubserti/node-iohook) which is a complete NodeJS module to catch-up events triggered by mouse and keyboard.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In [minimal-node](https://github.com/ayoubserti/minimal-node) I try to introduce how NodeJS works by recreating the wheel; In fact, this repository dig deeper in NodeJS implementation and reproduce some useful concept as ( stream, process.nextTick, timers and Filesystem ). In another hand, it help developer to master how NodeJS works by isolating every concept in a unique branch.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Me
 
-```markdown
-Syntax highlighted code block
+I will appreciate your emails, just write me to 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayoubserti/ayoubserti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ayb.serti@gmail.com
+```
